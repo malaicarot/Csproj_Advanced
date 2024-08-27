@@ -1,0 +1,15 @@
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\bin\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.exe
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\bin\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.deps.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\bin\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.runtimeconfig.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\bin\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\bin\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.pdb
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\obj\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\obj\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.AssemblyInfoInputs.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\obj\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.AssemblyInfo.cs
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\obj\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.csproj.CoreCompileInputs.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\obj\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.sourcelink.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\obj\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\obj\Debug\net8.0\refint\Lesson 4 , 5 & 6 Quiz.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\obj\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.pdb
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\obj\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.genruntimeconfig.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\obj\Debug\net8.0\ref\Lesson 4 , 5 & 6 Quiz.dll

@@ -1,0 +1,15 @@
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L123_Advanced-Quiz\Introduction_Final_Quiz\bin\Debug\net8.0\Introduction_Final_Quiz.exe
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L123_Advanced-Quiz\Introduction_Final_Quiz\bin\Debug\net8.0\Introduction_Final_Quiz.deps.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L123_Advanced-Quiz\Introduction_Final_Quiz\bin\Debug\net8.0\Introduction_Final_Quiz.runtimeconfig.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L123_Advanced-Quiz\Introduction_Final_Quiz\bin\Debug\net8.0\Introduction_Final_Quiz.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L123_Advanced-Quiz\Introduction_Final_Quiz\bin\Debug\net8.0\Introduction_Final_Quiz.pdb
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L123_Advanced-Quiz\Introduction_Final_Quiz\obj\Debug\net8.0\Introduction_Final_Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L123_Advanced-Quiz\Introduction_Final_Quiz\obj\Debug\net8.0\Introduction_Final_Quiz.AssemblyInfoInputs.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L123_Advanced-Quiz\Introduction_Final_Quiz\obj\Debug\net8.0\Introduction_Final_Quiz.AssemblyInfo.cs
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L123_Advanced-Quiz\Introduction_Final_Quiz\obj\Debug\net8.0\Introduction_Final_Quiz.csproj.CoreCompileInputs.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L123_Advanced-Quiz\Introduction_Final_Quiz\obj\Debug\net8.0\Introduction_Final_Quiz.sourcelink.json
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L123_Advanced-Quiz\Introduction_Final_Quiz\obj\Debug\net8.0\Introduction_Final_Quiz.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L123_Advanced-Quiz\Introduction_Final_Quiz\obj\Debug\net8.0\refint\Introduction_Final_Quiz.dll
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L123_Advanced-Quiz\Introduction_Final_Quiz\obj\Debug\net8.0\Introduction_Final_Quiz.pdb
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L123_Advanced-Quiz\Introduction_Final_Quiz\obj\Debug\net8.0\Introduction_Final_Quiz.genruntimeconfig.cache
+C:\C#-CoderSchool\CoderSchool_C-_Practice_Qn\Advanced Practices\L123_Advanced-Quiz\Introduction_Final_Quiz\obj\Debug\net8.0\ref\Introduction_Final_Quiz.dll

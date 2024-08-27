@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Introduction_Final_Quiz/1.0.0": {
+        "runtime": {
+          "Introduction_Final_Quiz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Introduction_Final_Quiz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
